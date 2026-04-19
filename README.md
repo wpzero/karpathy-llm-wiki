@@ -99,7 +99,3 @@ Checks for broken links, missing index entries, orphan pages, and data gaps (top
 ```
 
 Each ingest touches ~10–15 pages. Knowledge compounds: every source strengthens cross-references, flags contradictions, and deepens concept pages. The human curates sources and asks questions; the LLM does the bookkeeping.
-
-## License
-
-[MIT](LICENSE)
